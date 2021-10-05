@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Ganesh-rc/pics.git/static/js/main.2c4e215e.chunk.js",
+    "main.js.map": "/Ganesh-rc/pics.git/static/js/main.2c4e215e.chunk.js.map",
+    "runtime-main.js": "/Ganesh-rc/pics.git/static/js/runtime-main.f3c169e4.js",
+    "runtime-main.js.map": "/Ganesh-rc/pics.git/static/js/runtime-main.f3c169e4.js.map",
+    "static/js/2.1b254580.chunk.js": "/Ganesh-rc/pics.git/static/js/2.1b254580.chunk.js",
+    "static/js/2.1b254580.chunk.js.map": "/Ganesh-rc/pics.git/static/js/2.1b254580.chunk.js.map",
+    "index.html": "/Ganesh-rc/pics.git/index.html",
+    "static/js/2.1b254580.chunk.js.LICENSE.txt": "/Ganesh-rc/pics.git/static/js/2.1b254580.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3c169e4.js",
+    "static/js/2.1b254580.chunk.js",
+    "static/js/main.2c4e215e.chunk.js"
+  ]
+}
